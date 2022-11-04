@@ -17,7 +17,7 @@ func main() {
 		fmt.Println("Moja lista aut: ")
 		for _, car := range carBrands { // idx -> to dodatkowa zmienna, oznaczająca "iterację" "pętli". tu z niej nie korzystamy.
 			fmt.Printf(" %s\n", car)
-		} //
+		} // zmiana 222
 	*/
 
 }
